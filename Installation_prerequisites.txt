@@ -1,0 +1,17 @@
+You should ensure that you have Node.js and npm installed on your computer. 
+Please follow the steps below for install on windows
+
+1. https://nodejs.org/en
+2. Download Node.js
+3. install nodejs
+4. open cmd
+5. node -v
+
+Linux( Ubuntu)
+1. open terminal
+2. sudo apt-get update && apt-get upgrade -y
+3. sudo apt-get install nodejs
+4. sudo apt install npm
+5. node -v
+6. npm -v
+
